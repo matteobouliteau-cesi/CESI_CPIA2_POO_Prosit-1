@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CESI CPI A2 - POO - Prosit 1", "CESI CPI A2 - POO - Prosit 1\CESI CPI A2 - POO - Prosit 1.vcxproj", "{3D1F0353-850E-4A05-A463-B9673BBD6FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D1F0353-850E-4A05-A463-B9673BBD6FF6}.Debug|x64.ActiveCfg = Debug|x64
+		{3D1F0353-850E-4A05-A463-B9673BBD6FF6}.Debug|x64.Build.0 = Debug|x64
+		{3D1F0353-850E-4A05-A463-B9673BBD6FF6}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D1F0353-850E-4A05-A463-B9673BBD6FF6}.Debug|x86.Build.0 = Debug|Win32
+		{3D1F0353-850E-4A05-A463-B9673BBD6FF6}.Release|x64.ActiveCfg = Release|x64
+		{3D1F0353-850E-4A05-A463-B9673BBD6FF6}.Release|x64.Build.0 = Release|x64
+		{3D1F0353-850E-4A05-A463-B9673BBD6FF6}.Release|x86.ActiveCfg = Release|Win32
+		{3D1F0353-850E-4A05-A463-B9673BBD6FF6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01FF0DBD-79B2-4227-A111-7FB9B040EB41}
+	EndGlobalSection
+EndGlobal
