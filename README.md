@@ -9,7 +9,7 @@ This is made to evolue and allows to add unorthonormal coordinate systems, to ma
 ## Use case diagram
 ![UML use case diagram](usecasediagram.png)
 ## Class diagram
-![UML class diagram](classdiagram.png)
+![UML class diagram](UMLclassdiagram.png)
 - Point manages entities known as points and retrieves information about their coordinates.
 - MovablePoint is a point that can be moved. MovablePoint includes methods for moving the point.
 - CoordinateSystemInterface is an interface implemented by coordinate systems. This enforces defining, for each coordinate system, a common method that calculates, based on the nature of the coordinate system, the distance between two points in that system. This interface aligns with the program's need for scalability and anticipates the potential need to use non-orthonormal coordinate systems.
