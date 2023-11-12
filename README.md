@@ -4,6 +4,7 @@
 - [Use case diagram](#use-case-diagram)
 - [Class diagram](#class-diagram)
 - [Sequence diagram](#sequence-diagram)
+- [Activity diagram](#activity-diagram)
 ## Introduction
 This program is made to calcultate the distance between two points in an orthonormal coordinate system. It allows users to make points, to translate them and to calculate the distance between points.
 This is made to evolue and allows to add unorthonormal coordinate systems, to make all points we want and to evolue for more than 3 dimensions.
@@ -17,3 +18,5 @@ This is made to evolue and allows to add unorthonormal coordinate systems, to ma
 - OrthonormalCoordinateSystem and UnorthonormalCoordinateSystem are two coordinate systems, respectively orthonormal and non-orthonormal. They implement the CoordinateSystemInterface.
 ## Sequence diagram
 ![UML sequence diagram](sequence.png)
+## Activity diagram
+![UML activity diagram](activity.png)
